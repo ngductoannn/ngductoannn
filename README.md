@@ -1,4 +1,5 @@
-# Hi , I'm Nguyễn Đức Toàn
+# Hi , I'm Nguyễn Đức Toàn.
+---
 I am a student and my hobby is coding games.  
 Let's build games with me!
 ---
@@ -8,5 +9,6 @@ Let's build games with me!
 
 ---
 
-> *Building games with passion*
+> *Building games with passion.*
+> 
 > *Thank you❤️*
