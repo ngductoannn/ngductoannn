@@ -4,5 +4,5 @@
 [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://ngductoan.itch.io/)
 
 ## 🚀 Languages and Tools I Use
-- **Languages:** Python, C++, C#
-- **Tools:** PyGame, Git, VS Code, PyCharm
+- **Languages:** C#, java, C++, ...
+- **Tools:** Unity, Vscode, pycharm, ...
